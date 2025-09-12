@@ -1,7 +1,10 @@
 ## BioNGFF says 👋
 
 BioNGFF is a consortium of universities, research labs producing open-source software and format standards to support OME-Zarr.
-The work is supported by Wellcome Trust Technology Development grants
+The work is supported by Wellcome Trust Technology Development grants.
+We currently focus on building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr and tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
+
+
 <!--
 
 **Here are some ideas to get you started:**
