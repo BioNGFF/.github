@@ -1,5 +1,7 @@
-## Hi there 👋
+## BioNGFF says 👋
 
+BioNGFF is a consortium of universities, research labs producing open-source software and format standards to support OME-Zarr.
+The work is supported by Wellcome Trust Technology Development grants
 <!--
 
 **Here are some ideas to get you started:**
