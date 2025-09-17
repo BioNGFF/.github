@@ -1,7 +1,10 @@
 ## BioNGFF says 👋
 
 BioNGFF is a consortium of universities, research labs producing open-source software and format standards to support OME-Zarr.
-The [Next Generation Data Formats For 21st Century Biology](https://wellcome.org/research-funding/funding-portfolio/funded-grants/next-generation-data-formats-21st-century-biology) project is supported by Wellcome Trust Technology Development grants.
+The [Next Generation Data Formats For 21st Century Biology](https://wellcome.org/research-funding/funding-portfolio/funded-grants/next-generation-data-formats-21st-century-biology) project combines software developers with experimental biologists, imaging scientists using many different modalities, and data repository experts who will collaborate to design and deliver these new data format technologies for use by the global imaging community. The project supported by Wellcome Trust Technology Development grants.
+
+### ROADMAP
+
 We currently focus on building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr and tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
 
 
