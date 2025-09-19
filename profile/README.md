@@ -12,7 +12,7 @@ We currently focus on building a [Web Viewer](https://github.com/BioNGFF/biongff
 #### Import public OME-Zarr datasets 
 
 * September 2025 community call: Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1) and [omero-zarr-pixel-buffer v0.6.0-rc1](https://github.com/glencoesoftware/omero-zarr-pixel-buffer/releases/tag/v0.6.0-rc1)
-* Q4 2025: Import of plates and labels
+* Q4 2025: Import of plates
 * Q4 2025: Investigate support for OME-Zarr v0.5 in server side components
 
 ### Projects you may be interested in: ###
