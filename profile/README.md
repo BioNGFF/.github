@@ -5,15 +5,24 @@ The [Next Generation Data Formats For 21st Century Biology](https://wellcome.org
 
 ### Current Focus area
 
-We currently focus on building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr and tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
+We currently focus on 
+* building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr
+* building tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
 
 ### Roadmap
 
+### Web Viewer
+
+* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
+
 #### Import public OME-Zarr datasets 
 
-* September 2025 community call: Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1) and [omero-zarr-pixel-buffer v0.6.0-rc1](https://github.com/glencoesoftware/omero-zarr-pixel-buffer/releases/tag/v0.6.0-rc1)
+* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
+    * Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1)
+    * Release of [omero-zarr-pixel-buffer v0.6.0-rc1](https://github.com/glencoesoftware/omero-zarr-pixel-buffer/releases/tag/v0.6.0-rc1).
+    * [Status update](https://zenodo.org/records/17186172)
 * Q4 2025: Import of plates
-* Q4 2025: Investigate support for OME-Zarr v0.5 in server side components
+* Q4 2025: Investigate import of OME-Zarr v0.5 into OMERO
 
 ### Projects you may be interested in: ###
 * [OME-NGFF](https://ngff.openmicroscopy.org/latest), next-generation file formats. See [ngff](https://github.com/ome/ngff) for the specification
