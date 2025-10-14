@@ -19,9 +19,9 @@ We currently focus on
 #### Import public OME-Zarr datasets 
 
 * September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
+    * [Status update](https://zenodo.org/records/17186172)* 
     * Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1)
     * Release of [omero-zarr-pixel-buffer v0.6.0-rc1](https://github.com/glencoesoftware/omero-zarr-pixel-buffer/releases/tag/v0.6.0-rc1).
-    * [Status update](https://zenodo.org/records/17186172)
 * Q4 2025: Import of plates
 * Q4 2025: Investigate import of OME-Zarr v0.5 into OMERO
 
