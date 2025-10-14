@@ -13,7 +13,7 @@ We currently focus on
 
 ### Web Viewer
 
-* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
+* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611): [Introduction and roadmap](https://docs.google.com/presentation/d/1azX0kenr0TlkD9J2IHtrvzKv2xjbB3sCZDkN2N_0-Hk/edit?slide=id.g1363ca77dac_0_12#slide=id.g1363ca77dac_0_12)
 
 #### Import public OME-Zarr datasets 
 
