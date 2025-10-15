@@ -11,6 +11,8 @@ We currently focus on
 
 ### Roadmap
 
+Some team members will be attending the [2025 International OME-NGFF workshop](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html) (10-14/11/2025)
+
 ### Web Viewer
 
 * September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
