@@ -9,19 +9,20 @@ We currently focus on
 * building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr
 * building tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
 
+### Activities
+* Present at the [September 2025 community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611)
+* Attend the [2025 International OME-NGFF workshop](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html) (10-14/11/2025)
+
 ### Roadmap
+#### Web Viewer
 
-Some team members will be attending the [2025 International OME-NGFF workshop](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html) (10-14/11/2025)
-
-### Web Viewer
-
-* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
+* September 2025 community call:
     * [Introduction and roadmap](https://docs.google.com/presentation/d/1azX0kenr0TlkD9J2IHtrvzKv2xjbB3sCZDkN2N_0-Hk/edit?slide=id.g1363ca77dac_0_12#slide=id.g1363ca77dac_0_12)
 
 #### Import public OME-Zarr datasets 
 
-* September 2025 [community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611):
-    * [Status update](https://zenodo.org/records/17186172)* 
+* September 2025 community call:
+    * [Status update](https://zenodo.org/records/17186172) 
     * Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1)
     * Release of [omero-zarr-pixel-buffer v0.6.0-rc1](https://github.com/glencoesoftware/omero-zarr-pixel-buffer/releases/tag/v0.6.0-rc1).
 * Q4 2025: Import of plates
