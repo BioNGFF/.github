@@ -12,6 +12,9 @@ We currently focus on
 * building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr
 * building tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
 * working on the [OME-NGFF specification](https://github.com/ome/ngff).
+* working on Python libraries:
+    * [OME-zarr py](https://github.com/ome/ome-zarr-py) A Python library for readind and writing multi-resolution images stored in Zarr filesets.
+    * [OME-zarr models](https://github.com/ome-zarr-models/ome-zarr-models-py) A Python library for reading OME-Zarr metadata.
 
 ### Activities
 * Present at the [September 2025 community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611)
@@ -33,9 +36,10 @@ We currently focus on
 
 #### Specification
  * Q4 2025: Integration of [RFC-5 Coordinate systems and transformations](https://ngff.openmicroscopy.org/rfc/5/index.html). See [Review response](https://github.com/ome/ngff/pull/350)
- * 
+
+#### Python libraries
+ * September 2025
+   * Validate the writing of OME-Zarr in OME-zarr py using OME-zarr models.
 ### Projects you may be interested in: ###
-* [OME-zarr py](https://github.com/ome/ome-zarr-py) A Python library for readind and writing multi-resolution images stored in Zarr filesets.
-* [OME-zarr models](https://github.com/ome-zarr-models/ome-zarr-models-py) A Python library for reading OME-Zarr metadata.
 * [napari-ome-zarr](https://github.com/ome/napari-ome-zarr) A [napari] plugin for reading OME-Zarr data.
 
