@@ -21,9 +21,9 @@ We currently focus on
 
 #### Web Viewer
 * September 2025 community call:
-    * [Introduction and roadmap](https://docs.google.com/presentation/d/1azX0kenr0TlkD9J2IHtrvzKv2xjbB3sCZDkN2N_0-Hk/edit?slide=id.g1363ca77dac_0_12#slide=id.g1363ca77dac_0_12)
+    * [Introduction and roadmap of BioNGFF Web viewer](https://docs.google.com/presentation/d/1azX0kenr0TlkD9J2IHtrvzKv2xjbB3sCZDkN2N_0-Hk/edit?slide=id.g1363ca77dac_0_12#slide=id.g1363ca77dac_0_12)
 
-#### Import public OME-Zarr datasets 
+#### Import public OME-Zarr datasets into OMERO
 * September 2025 community call:
     * [Status update](https://zenodo.org/records/17186172) 
     * Release of [omero-cli-zarr v0.7.0rc1](https://github.com/ome/omero-cli-zarr/releases/tag/v0.7.0rc1)
