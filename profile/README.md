@@ -41,5 +41,5 @@ We currently focus on
  * September 2025
    * Validate the writing of OME-Zarr in OME-zarr py using OME-zarr models.
 ### Projects you may be interested in: ###
-* [napari-ome-zarr](https://github.com/ome/napari-ome-zarr) A [napari] plugin for reading OME-Zarr data.
+* [napari-ome-zarr](https://github.com/ome/napari-ome-zarr) A [napari](https://napari.org/) plugin for reading OME-Zarr data.
 
