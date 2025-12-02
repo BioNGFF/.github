@@ -9,7 +9,8 @@ The [Next Generation Data Formats For 21st Century Biology](https://wellcome.org
 ### Current Focus area
 
 We currently focus on 
-* building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr
+* building a [Web Viewer](https://github.com/BioNGFF/biongff-viewer) to support multi-modal imaging data available as OME-Zarr.
+* building a [Java script library] to simplify the rendering of OME-Zarr images.
 * building tools to import public OME-Zarr datasets into [OMERO](https://www.openmicroscopy.org/omero/), a well-established data management platform.
 * working on the [OME-NGFF specification](https://github.com/ome/ngff).
 * working on Python libraries:
@@ -20,11 +21,18 @@ We currently focus on
 * Present at the [September 2025 community call](https://forum.image.sc/t/join-us-for-the-next-ome-ngff-community-call-on-september-23-9-00-cest-and-17-00-cest/115611)
 * Attend the [2025 International OME-NGFF workshop](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html) (10-14/11/2025)
 
-### Roadmap
+### Progress
 
 #### Web Viewer
 * September 2025 community call:
     * [Introduction and roadmap of BioNGFF Web viewer](https://docs.google.com/presentation/d/1azX0kenr0TlkD9J2IHtrvzKv2xjbB3sCZDkN2N_0-Hk/edit?slide=id.g1363ca77dac_0_12#slide=id.g1363ca77dac_0_12)
+* November 2025:
+    * Became maintainer of [Vizarr](https://github.com/hms-dbmi/vizarr) to support the development of BioNGFF Web viewer.
+ 
+### Javascript library
+ * November 2025
+    * Release of version [0.0.17](https://github.com/BioNGFF/ome-zarr.js/releases/tag/v0.0.17)
+       * Used by [BioFile Finder](https://github.com/allenInstitute/biofile-finder/), [FileGlancer](https://github.com/JaneliaSciComp/fileglancer), [OMEZarrTileSource](https://github.com/TissUUmaps/OMEZarrTileSource)
 
 #### Import public OME-Zarr datasets into OMERO
 * September 2025 community call:
